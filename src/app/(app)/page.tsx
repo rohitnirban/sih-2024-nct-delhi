@@ -47,7 +47,7 @@ const cardData = [
     },
     {
         title: 'Near Agricultural Land',
-        value: '89',
+        value: '81',
         icon: <Briefcase className="h-4 w-4 text-muted-foreground" />
     },
     {
