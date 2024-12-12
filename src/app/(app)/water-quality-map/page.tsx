@@ -34,7 +34,6 @@ const Page = () => {
 
   return (
     <div className='select-none'>
-      {iframeMessage ? <p className='absolute text-black'>{iframeMessage}</p> : <p>Hello</p>}
       <div className='h-16 w-56 xl:w-64 bg-[#FAFAFA] absolute right-0'></div>
       <iframe
         src="https://ee-adityaberry2004.projects.earthengine.app/view/sih"
